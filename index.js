@@ -22,7 +22,7 @@ function processFile(filePath) {
                     if (err) {
                         console.log(`\x1b[31mError writing file: ${filePath}\x1b[0m`); // Red color
                     } else {
-                        console.log(`\x1b[32mProcessed ${filePath}\x1b[0m`); // Green color
+                        console.log(`\x1b[32mChanged - ${filePath}\x1b[0m`); // Green color
                         changedFilesCount++;
                     }
                 });

@@ -36,7 +36,7 @@ After installing the tool, you can run it from the command line. You need to pro
 To run the tool on a specific directory:
 
 ```bash
-whitespace-fixer /path/to/your/vue/project
+whitespace-fixer /path/to/your/project
 ````
 
 To run the tool in the current directory:
