@@ -1,15 +1,13 @@
-![npm](https://img.shields.io/npm/v/vue-class-whitespace-fixer)
-![license](https://img.shields.io/npm/l/vue-class-whitespace-fixer)
-![downloads](https://img.shields.io/npm/dt/vue-class-whitespace-fixer)
-![downloads](https://img.shields.io/npm/dw/vue-class-whitespace-fixer)
-![downloads](https://img.shields.io/npm/dm/vue-class-whitespace-fixer)
-![GitHub last commit](https://img.shields.io/github/last-commit/afflexux/vue-class-whitespace-fixer)
+![npm](https://img.shields.io/npm/v/whitespace-fixer)
+![license](https://img.shields.io/npm/l/whitespace-fixer)
+![downloads](https://img.shields.io/npm/dt/whitespace-fixer)
+![downloads](https://img.shields.io/npm/dw/whitespace-fixer)
+![downloads](https://img.shields.io/npm/dm/whitespace-fixer)
+![GitHub last commit](https://img.shields.io/github/last-commit/afflexux/whitespace-fixer)
 
 # whitespace-fixer
 
 A tool to fix excessive whitespace in class and className attributes of Vue, React, Angular, and Svelte files, particularly handy for TailwindCSS classes.
-
-![npm](https://img.shields.io/npm/v/class-whitespace-fixer) ![license](https://img.shields.io/npm/l/class-whitespace-fixer) ![downloads](https://img.shields.io/npm/dt/class-whitespace-fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)
 
 ## Description
 
