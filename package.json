@@ -1,6 +1,6 @@
 {
     "name": "whitespace-fixer",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A tool to fix excessive whitespace in class and className attributes of Vue, React, Angular, and Svelte files.",
     "main": "index.js",
     "bin": {
