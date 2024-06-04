@@ -15,7 +15,7 @@ A tool to fix excessive whitespace in class and className attributes of Vue, Rea
 
 While the TailwindCSS Prettier plugin now removes excessive whitespace, the ESLint TailwindCSS plugin does not yet offer this functionality. `whitespace-fixer` fills this gap by ensuring your Vue, React, Angular, and Svelte files have clean, consistent class attributes without excessive whitespace.
 
-Additionally, this tool can be used with other JavaScript frameworks and libraries that use `class` or `className` attributes, such as Angular, Svelte, Preact, Inferno, Riot.js, Hyperapp, Mithril, and vanilla JavaScript.
+Additionally, this tool can be used with other JavaScript frameworks and libraries that use `class` or `className` attributes, such as Preact, Inferno, Riot.js, Hyperapp, Mithril, and vanilla JavaScript.
 
 ## Installation
 
